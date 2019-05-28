@@ -40,7 +40,7 @@ hr.star-dark:after {
   font-size: 2em;
 }
 hr.star-light:after {
-  background-image: url("/img/portfolio/background.gif");
+  background-image: url("/Portfolio/img/portfolio/background.gif");
   background-position: 200%;
   background-size: 1600px 1100px;
 }
@@ -281,7 +281,7 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-image: url("/img/portfolio/colorGif.gif");
+  background-image: url("/Portfolio/img/portfolio/colorGif.gif");
   background-position: 40%;
   background-size: 1600px 1200px;
   background-repeat: no-repeat;
@@ -297,13 +297,13 @@ a:focus, a:hover, a:active {
   border-width: 2px;
 }
 .bg-primary {
-  background-image: url("/img/portfolio/background.gif");
+  background-image: url("/Portfolio/img/portfolio/background.gif") ;
   background-position: 50%;
   background-size: 1600px 1100px;
   background-repeat: no-repeat;
 }
 .bg-secondary {
-  background-image: url("/img/portfolio/colorGif.gif");
+  background-image: url("/Portfolio/img/portfolio/colorGif.gif") ;
   background-position: 40%;
   background-size: 1439px 800px;
   background-repeat: no-repeat;
