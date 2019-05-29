@@ -297,7 +297,7 @@ a:focus, a:hover, a:active {
   border-width: 2px;
 }
 .bg-primary {
-  background-image: url("/Portfolio/img/portfolio/background.gif") ;
+  background-image: url("/Portfolio/img/portfolio/background.gif") !important;
   background-position: 50%;
   background-size: 1600px 1100px;
   background-repeat: no-repeat;
